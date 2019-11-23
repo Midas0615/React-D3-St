@@ -1,5 +1,3 @@
-Source code for [St.Vartan Basketball Website](st-vartan.github.io)
-
 ## Table of Contents
 - [Development](#development)
 - [Architecture](#architecture)
