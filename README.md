@@ -2,7 +2,6 @@
 - [Development](#development)
 - [Architecture](#architecture)
 - [Data Visualization](#data-visualization)
-- [License](#license)
 
 ## Development
 > Make sure `node`, `npm`, `git` are installed on your system.
@@ -57,5 +56,3 @@ will be used. This site will stay on `Github.io`, fetching data from `Amazon AWS
 ## Data Visualization
 Data Visualizations are achieved with `D3`, `WebGL` and `RxJS`;
 
-## License
-MIT
